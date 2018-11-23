@@ -1,0 +1,27 @@
+{
+  "name": "pretty-please",
+  "version": "0.3.0",
+  "description": "Simple HTTP/HTTPS request library with no dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./.test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdesalas/pretty-please.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "request",
+    "library",
+    "get",
+    "post"
+  ],
+  "author": "Steven de Salas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdesalas/pretty-please/issues"
+  },
+  "homepage": "https://github.com/sdesalas/pretty-please#readme"
+}
