@@ -3,7 +3,7 @@
 Simple HTTP/HTTPS request library with ZERO DEPENDENCIES.
 
 ``` 
-const please = require('pretty-please');
+const please = require('@sdesalas/pretty-please');
 
 // As a Promise 
 
